@@ -4,7 +4,7 @@ spring:
       type: com.alibaba.druid.pool.DruidDataSource
       url: jdbc:mysql://localhost:3306/springboot-jpa?useSSL=false
       username: root
-      password: Liu123456
+      password: 
       driverClassName: com.mysql.jdbc.Driver
       # 下面为连接池的补充设置，应用到上面所有数据源中
       # 初始化大小，最小，最大
