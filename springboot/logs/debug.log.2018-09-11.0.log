@@ -1,0 +1,475 @@
+2018-09-11 08:44:48.362 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:48.412 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:48.450 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:52.124 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:52.126 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:52.127 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:57.487 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:57.488 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:57.490 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:57.651 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:57.652 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:57.652 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:59.006 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:59.006 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:59.007 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:59.080 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:59.080 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:59.081 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:59.836 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:59.836 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:59.838 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:44:59.917 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:44:59.917 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:44:59.919 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:55.378 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:55.385 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:55.390 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:55.491 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:55.492 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:55.492 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:56.310 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:56.311 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:56.314 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:56.398 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:56.398 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:56.402 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:57.103 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:57.103 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:57.104 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:45:57.177 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:45:57.178 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:45:57.179 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:08.279 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:08.279 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:08.280 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:16.777 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:16.781 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:16.783 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:16.989 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:16.989 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:16.995 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:20.029 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:20.029 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:20.031 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:20.105 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:20.105 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:20.107 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:20.678 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:20.679 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:20.680 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:20.780 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:20.780 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:20.782 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:21.251 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:21.251 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:21.252 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:21.338 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:21.338 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:21.339 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:21.908 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:21.908 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:21.909 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:22.017 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:22.018 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:22.018 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:22.996 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:22.996 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:22.998 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:46:23.071 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:46:23.071 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:46:23.072 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:47:10.734 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:47:10.735 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:47:10.736 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:47:11.171 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:47:11.172 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:47:11.173 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:47:39.707 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:47:39.707 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 08:47:39.709 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 08:47:39.710 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 08:47:39.710 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 08:47:39.746 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 1
+2018-09-11 08:48:16.945 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-09-11 08:48:16.945 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-09-11 08:48:16.946 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-09-11 08:48:16.948 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ? 
+2018-09-11 08:48:16.949 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 3(Integer)
+2018-09-11 08:48:16.951 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 3
+2018-09-11 08:49:55.058 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:49:55.058 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:49:55.069 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:49:58.722 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:49:58.725 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:49:58.726 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:49:59.389 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:49:59.390 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:49:59.390 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:00.685 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:00.686 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:00.694 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:01.457 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:01.457 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:01.457 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:02.140 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:02.140 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:02.143 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:02.748 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:02.749 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:02.749 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:03.594 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:03.594 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:03.595 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:04.239 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:04.239 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:04.240 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:05.085 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:05.085 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:05.086 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:05.895 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:05.896 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:05.897 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:06.616 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:06.616 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:06.625 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:48.009 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:48.028 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:48.040 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:50.843 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:50.844 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:50.845 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:51.986 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:51.986 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:51.987 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:52.703 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:52.704 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:52.705 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:53.596 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:53.597 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:53.598 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:54.229 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:54.229 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:54.230 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:55.096 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:55.096 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:55.097 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:55.696 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:55.697 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:55.697 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:56.394 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:56.394 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:56.395 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:57.144 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:57.144 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:57.147 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:58.296 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:58.296 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:58.297 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:50:59.008 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:50:59.009 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:50:59.010 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:26.743 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:26.744 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:26.757 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:28.900 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:28.901 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:28.903 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:31.500 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:31.501 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:31.502 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:34.065 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:34.074 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:34.087 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:47.934 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:47.935 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:47.937 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:51:56.411 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:56.411 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 08:51:56.414 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 08:51:56.414 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 08:51:56.414 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 08:51:56.417 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 1
+2018-09-11 08:51:58.190 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:51:58.191 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:51:58.192 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:52:10.696 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:52:10.696 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:52:10.697 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:52:32.024 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:52:32.024 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 08:52:32.027 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 08:52:32.028 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 08:52:32.028 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 08:52:32.032 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 1
+2018-09-11 08:56:19.376 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:56:19.376 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 08:56:19.377 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 08:56:29.781 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 08:56:29.784 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 08:56:29.787 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 08:56:29.788 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 08:56:29.789 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 08:56:29.792 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-09-11 08:56:45.690 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-09-11 08:56:45.690 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-09-11 08:56:45.691 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-09-11 08:56:45.695 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ? 
+2018-09-11 08:56:45.695 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 3(Integer)
+2018-09-11 08:56:45.697 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 3
+2018-09-11 08:56:52.611 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-09-11 08:56:52.611 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-09-11 08:56:52.611 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-09-11 08:56:52.611 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ?, ? 
+2018-09-11 08:56:52.611 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 3(Integer), 3(Integer)
+2018-09-11 08:56:52.622 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 3
+2018-09-11 08:57:08.827 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-09-11 08:57:08.828 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-09-11 08:57:08.831 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-09-11 08:57:08.832 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ?, ? 
+2018-09-11 08:57:08.833 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 6(Integer), 3(Integer)
+2018-09-11 08:57:08.835 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 2
+2018-09-11 09:09:28.848 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:09:28.867 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:09:28.879 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:09:38.380 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:09:38.380 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:09:38.382 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:09:45.466 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:09:45.466 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:09:45.467 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:09:51.593 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:09:51.594 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:09:51.595 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:09:56.610 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:09:56.610 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:09:56.612 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:10:02.882 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:10:02.883 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:10:02.884 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:10:02.886 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:10:02.886 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:10:02.887 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:15:16.063 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:15:16.082 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:15:16.095 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:15:28.966 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:15:28.967 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:15:28.968 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:16:03.740 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:16:03.741 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:16:03.742 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:16:12.390 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:16:12.390 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:16:12.391 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:16:18.211 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:16:18.211 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:16:18.212 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:16:28.666 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:16:28.667 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:16:28.667 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:17:48.297 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:17:48.297 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:17:48.299 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:24:19.948 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:24:19.965 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:24:19.978 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:24:35.002 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:24:35.002 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:24:35.003 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:37:44.779 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:37:44.800 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:37:44.811 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:38:19.480 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:38:19.481 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:38:19.483 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:39:58.601 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:39:58.601 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:39:58.602 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:42:06.650 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:42:06.650 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 09:42:06.655 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 09:42:12.289 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:42:12.289 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 09:42:12.289 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 09:42:16.632 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:42:16.632 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 09:42:16.632 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 09:43:17.914 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 09:43:17.917 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 09:43:17.922 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 09:46:22.661 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==>  Preparing: update sys_user su set su.status=false where su.username=? 
+2018-09-11 09:46:22.665 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==> Parameters: qq(String)
+2018-09-11 09:46:22.689 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.lockUser - <==    Updates: 1
+2018-09-11 10:02:52.881 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:02:52.899 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:02:52.912 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:02:52.914 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:02:52.915 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:02:52.916 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:02:59.822 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:02:59.822 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:02:59.823 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:02:59.824 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:02:59.825 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:02:59.826 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:05.842 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:10.514 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:10.514 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:10.514 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:10.514 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:10.529 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:10.530 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:03:35.169 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:04:29.510 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:04:29.527 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:04:29.542 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:04:37.819 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:04:37.819 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: asfda(String)
+2018-09-11 10:04:37.819 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:04:46.283 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:04:46.283 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: asfd(String)
+2018-09-11 10:04:46.299 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:04:50.898 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:04:50.898 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: asdfa(String)
+2018-09-11 10:04:50.898 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:04:55.351 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:04:55.351 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: adsf(String)
+2018-09-11 10:04:55.352 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:05:16.116 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:05:16.116 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:05:16.119 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:05:16.120 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:05:16.120 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:05:16.122 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:05:16.123 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==>  Preparing: update sys_user su set su.status=false where su.username=? 
+2018-09-11 10:05:16.123 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==> Parameters: qq(String)
+2018-09-11 10:05:16.129 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.lockUser - <==    Updates: 1
+2018-09-11 10:05:38.291 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:05:38.292 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:05:38.293 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:05:38.294 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:05:38.294 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:05:38.295 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:05:38.296 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==>  Preparing: update sys_user su set su.status=false where su.username=? 
+2018-09-11 10:05:38.296 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==> Parameters: qq(String)
+2018-09-11 10:05:38.306 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.lockUser - <==    Updates: 1
+2018-09-11 10:06:26.006 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:06:26.007 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:06:26.012 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:06:26.014 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:06:26.015 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:06:26.017 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:06:26.018 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==>  Preparing: update sys_user su set su.status=false where su.username=? 
+2018-09-11 10:06:26.018 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==> Parameters: qq(String)
+2018-09-11 10:06:26.024 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.lockUser - <==    Updates: 1
+2018-09-11 10:08:54.137 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:08:54.137 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: admi(String)
+2018-09-11 10:08:54.138 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:08:54.140 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:08:54.140 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: admi(String)
+2018-09-11 10:08:54.142 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:08:54.144 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==>  Preparing: update sys_user su set su.status=false where su.username=? 
+2018-09-11 10:08:54.144 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.lockUser - ==> Parameters: admi(String)
+2018-09-11 10:08:54.149 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.lockUser - <==    Updates: 1
+2018-09-11 10:09:18.527 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:18.527 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:18.542 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:18.543 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:18.543 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:18.545 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:35.186 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:38.386 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:38.387 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:38.388 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:38.389 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:38.390 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:38.390 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:09:55.429 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:09:55.429 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:09:55.430 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:10:26.427 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:10:26.428 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: abel(String)
+2018-09-11 10:10:26.429 [http-nio-8888-exec-1] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:10:57.126 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:10:57.126 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: abel(String)
+2018-09-11 10:10:57.126 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:13:47.551 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:13:47.569 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:13:47.582 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:13:47.583 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:13:47.584 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:13:47.584 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:13:56.548 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:13:56.548 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:13:56.549 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:13:56.550 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:13:56.550 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: null
+2018-09-11 10:13:56.551 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 0
+2018-09-11 10:24:50.523 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:24:50.542 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:24:50.556 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:24:50.557 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:24:50.557 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 10:24:50.568 [http-nio-8888-exec-2] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-09-11 10:24:50.569 [http-nio-8888-exec-2] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user where su.username=? 
+2018-09-11 10:24:50.570 [http-nio-8888-exec-2] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-09-11 10:31:07.362 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:31:07.380 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:31:07.392 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:31:07.393 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:31:07.393 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 10:31:07.395 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-09-11 10:31:07.396 [http-nio-8888-exec-9] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select status from sys_user where su.username=? 
+2018-09-11 10:31:07.397 [http-nio-8888-exec-9] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-09-11 10:32:07.768 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:32:07.785 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:32:07.797 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:32:07.799 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:32:07.799 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 10:32:07.801 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-09-11 10:32:07.802 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-09-11 10:32:07.802 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-09-11 10:32:07.803 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: abel(String)
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: abel(String)
+2018-09-11 10:32:42.354 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 1
+2018-09-11 10:32:42.373 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-09-11 10:32:42.374 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: abel(String)
+2018-09-11 10:32:42.376 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-09-11 10:34:04.607 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:34:04.608 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: abel(String)
+2018-09-11 10:34:04.609 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:34:04.610 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:34:04.612 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: abel(String)
+2018-09-11 10:34:04.613 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 1
+2018-09-11 10:34:04.614 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-09-11 10:34:04.614 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: abel(String)
+2018-09-11 10:34:04.615 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-09-11 10:41:28.677 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-09-11 10:41:28.694 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-09-11 10:41:28.706 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-09-11 10:41:28.708 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-09-11 10:41:28.709 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-09-11 10:41:28.710 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-09-11 10:41:28.711 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-09-11 10:41:28.712 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-09-11 10:41:28.714 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1

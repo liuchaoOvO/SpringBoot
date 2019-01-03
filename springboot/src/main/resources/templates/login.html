@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>登录首页</title>
+   <script type="text/javascript" th:src="@{/js/regist.js}"></script>
+</head>
+<body>
+<h2>======登录首页及注册跳转页面=====</h2>
+<div th:if="${result} != null">
+   ========= <h2  th:if="${result} != null" th:text="${result.msg}?:''">======<br/>
+</div>
+<form name="form" th:action="@{/user/login}" action="/user/login" th:formmethod="post" >
+    用户名：<input type="text" class="form-control" name="username" value="" placeholder="账号"/><br/>
+    密  码：<input type="password" class="form-control" name="password" placeholder="密码"/><br/>
+    验证码:  <input type="text" placeholder="请输入验证码" name="verifyCodeActual">
+    <div class="item-input">
+        <img id="captcha_img" alt="点击更换" title="点击更换"
+             onclick="refresh()" src="/kaptcha" />
+    </div>
+    <input type="submit" id="login"  formmethod="post" value="登录按钮" />
+</form><br/>
+<div id="resultsBlock">
+    <a th:href="@{'/user/regist'}">注册用户链接</a>
+</div>
+</body>
+</html>

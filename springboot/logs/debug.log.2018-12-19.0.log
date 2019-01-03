@@ -1,0 +1,75 @@
+2018-12-19 10:57:11.821 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-19 10:57:11.844 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-19 10:57:11.872 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-19 10:57:12.199 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 10:57:12.200 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 10:57:12.209 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 10:57:12.210 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 10:57:12.210 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 10:57:12.212 [http-nio-8888-exec-8] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 11:13:37.032 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-19 11:13:37.032 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-19 11:13:37.036 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-19 11:13:37.048 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 11:13:37.048 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 11:13:37.053 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 11:13:37.054 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 11:13:37.055 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 11:13:37.057 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:18:34.267 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-19 12:18:34.290 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-19 12:18:34.306 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-19 12:18:34.869 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:18:34.869 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:18:34.874 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:18:34.875 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:18:34.875 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:18:34.876 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:21:09.486 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:21:09.514 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:21:09.537 [http-nio-8888-exec-5] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:21:09.539 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:21:09.540 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:21:09.541 [http-nio-8888-exec-5] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:26:03.991 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:26:03.993 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:26:04.002 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:26:04.007 [http-nio-8888-exec-7] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:26:04.009 [http-nio-8888-exec-7] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:26:04.013 [http-nio-8888-exec-7] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:30:10.475 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-19 12:30:10.482 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-19 12:30:10.490 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-19 12:30:10.633 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:30:10.635 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:30:10.641 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:30:10.644 [http-nio-8888-exec-10] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:30:10.646 [http-nio-8888-exec-10] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:30:10.650 [http-nio-8888-exec-10] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:30:36.239 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:30:36.239 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:30:36.242 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:30:36.244 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:30:36.244 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:30:36.246 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:34:00.790 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:34:01.137 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:34:01.355 [http-nio-8888-exec-4] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:34:17.208 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:34:17.210 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:34:17.214 [http-nio-8888-exec-4] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-19 12:36:15.586 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-12-19 12:36:15.587 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-12-19 12:36:15.588 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-12-19 12:36:15.590 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ? 
+2018-12-19 12:36:15.591 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 3(Integer)
+2018-12-19 12:36:15.592 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 3
+2018-12-19 12:54:01.871 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-19 12:54:01.871 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-19 12:54:01.875 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-19 12:54:02.200 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-19 12:54:02.201 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-19 12:54:02.207 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-19 12:54:02.209 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-19 12:54:02.209 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-19 12:54:02.211 [http-nio-8888-exec-6] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1

@@ -1,0 +1,45 @@
+2018-12-28 10:34:34.188 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==>  Preparing: select id,password,username from SYS_user WHERE username = ? 
+2018-12-28 10:34:34.221 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - ==> Parameters: qq(String)
+2018-12-28 10:34:34.259 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findUserByUsername - <==      Total: 1
+2018-12-28 10:34:34.261 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==>  Preparing: select sr.* from sys_user su left join sys_role_user sur on su.id = sur.sys_user_id left join sys_role sr on sur.sys_role_id = sr.id where su.username = ? 
+2018-12-28 10:34:34.261 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - ==> Parameters: qq(String)
+2018-12-28 10:34:34.277 [http-nio-8888-exec-3] DEBUG com.lc.mapper.SysUserMapper.findRolesByUsername - <==      Total: 2
+2018-12-28 10:34:34.279 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==>  Preparing: select su.status from sys_user su where su.username=? 
+2018-12-28 10:34:34.279 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - ==> Parameters: qq(String)
+2018-12-28 10:34:34.281 [http-nio-8888-exec-3] DEBUG c.lc.mapper.SysUserMapper.findUserStatusByUsername - <==      Total: 1
+2018-12-28 10:34:48.986 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==>  Preparing: SELECT count(0) FROM sys_user 
+2018-12-28 10:34:48.987 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - ==> Parameters: 
+2018-12-28 10:34:48.989 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList_COUNT - <==      Total: 1
+2018-12-28 10:34:48.992 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==>  Preparing: SELECT * FROM sys_user LIMIT ? 
+2018-12-28 10:34:48.993 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - ==> Parameters: 3(Integer)
+2018-12-28 10:34:48.996 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.getUserList - <==      Total: 3
+2018-12-28 10:45:35.845 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 10:45:35.845 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lc(String), $2a$10$XfgZCIFxiJP2zOLTKqQ/eugoQ/fsZRWPhA/x36oBcLBynjXRM6V0O(String)
+2018-12-28 10:45:35.852 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 10:58:02.794 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 10:58:03.151 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lcc(String), $2a$10$v8OtRd4IDhh2Ss9s55igLe.L8O0Lk2HvKbK2joW/PWrc44o9K7Lzq(String)
+2018-12-28 10:58:03.174 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 12:33:57.550 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 12:33:57.577 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lcx(String), $2a$10$UcmkOZSxymaxch5az1sxUOMMn8UAl7jYSevb6LXfguO.U6aRfUpjm(String)
+2018-12-28 12:33:57.596 [http-nio-8888-exec-6] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:06:53.507 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:06:53.531 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lcv(String), $2a$10$mWIk/aAXv31lpJH7J3twROjCY7JdfJUC63XICATlbXTgJJRr539Vq(String)
+2018-12-28 14:06:53.547 [http-nio-8888-exec-8] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:13:28.333 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:13:28.333 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lk(String), $2a$10$F9C5tDmGysA7t/W9RvyXhuZa/H9QJjBDWTb4XHNSnyRyHFcRCcGny(String)
+2018-12-28 14:13:28.351 [http-nio-8888-exec-7] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:14:21.777 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:14:21.795 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lj(String), $2a$10$tbPvf.lC0hFZnbcp7ibxKO.BvEZmGXWDSk1yRUe7ho07g/Nl42nWW(String)
+2018-12-28 14:14:21.936 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:15:24.080 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:15:24.100 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: lo(String), $2a$10$W.QXDrL7WPBlA8IVKxMxYe1bZYrcEIX1PjU/ITeMZI/VgM1JSfsQa(String)
+2018-12-28 14:15:24.119 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:26:15.905 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:26:15.923 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: LL(String), $2a$10$SDzo.e9BBFEKpUQNYYLl4OheUwJeo9U0vMxbGTy9cUNDFqKiGNceO(String)
+2018-12-28 14:26:15.941 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 14:30:00.511 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 14:30:00.511 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: qw(String), $2a$10$JoShJE.ntBhDteciz6MY9.uINNyZczf9eic7WP2NjVlTnOUz3Lw8O(String)
+2018-12-28 14:30:00.531 [http-nio-8888-exec-10] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
+2018-12-28 16:20:41.349 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - ==>  Preparing: insert into sys_user(username,password) values(?,?) 
+2018-12-28 16:20:41.408 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - ==> Parameters: qwe(String), $2a$10$G7seSTM1cK8UQDE5Kh2uCuBXgfnsCM7aTjfiqlC2WGdLviIn6xvYW(String)
+2018-12-28 16:20:41.424 [http-nio-8888-exec-9] DEBUG com.lc.mapper.SysUserMapper.registUser - <==    Updates: 1
