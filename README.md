@@ -18,5 +18,5 @@ SpringBoot 的Demo代码
 
 8，热部署，druid数据源，pagehelper分页插件，fastjson模板
 
-9,script_sql 存放springboot.sql  完整的sql  表结构和测试数据
+9，script_sql 存放springboot.sql  完整的sql  表结构和测试数据
 
