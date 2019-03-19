@@ -10,6 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class SpringbootApplication {
 
 	public static void main(String[] args) {
+		System.out.print("git");
 		SpringApplication.run(SpringbootApplication.class, args);
 	}
 }
