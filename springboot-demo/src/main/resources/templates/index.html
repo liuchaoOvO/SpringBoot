@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>主页</title>
+</head>
+<body>
+<h1>hello spring boot with security</h1>
+<h2>===========主页============</h2>
+<form name="form" th:action="@{/}" action="/" method="post">
+主页页面的form位置。。。
+
+</form><br/>
+<div>
+个人git主页二维码：<img alt="二维码"  src="/qrcode/generateqrcode"><br/>
+</div>
+<div>
+    <a th:href="@{/user/getUserList(pageNum=1,pageSize=3)}">查看所有用户信息</a><br/>
+</div>
+<div>
+    <a th:href="@{/upload}">上传文件</a><br/>
+</div>
+<div>
+<form th:action="@{/logout}" method="post">
+    <input type="submit" class="btn btn-primary" value="注销"/>
+</form>
+</div>
+</body>
+</html>
