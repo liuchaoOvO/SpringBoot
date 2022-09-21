@@ -1,5 +1,5 @@
 # Spring-Boot
-SpringBoot 的Demo代码
+SpringBoot 的多模块项目代码
 内容包括：
 
 1，整合日志
@@ -20,3 +20,8 @@ SpringBoot 的Demo代码
 
 9，script_sql 存放springboot.sql  完整的sql  表结构和测试数据
 
+目前模块分为：
+<module>springboot-demo</module>
+<module>springboot-security</module>
+<module>springboot-rabbitmq</module>
+<module>springboot-jpa</module>
