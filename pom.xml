@@ -105,6 +105,7 @@
         <module>springboot-security</module>
         <module>springboot-rabbitmq</module>
         <module>springboot-jpa</module>
+        <module>spring-cloud-alibaba-nacos</module>
     </modules>
     <repositories>
         <!-- spring仓库https协议 -->
