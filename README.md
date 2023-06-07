@@ -32,6 +32,8 @@ SpringBoot 的多模块[每个模块独立]项目代码
 
 <module>springboot-jpa</module>
 
+<module>spring-cloud-alibaba-nacos</module>
+
 等等
 
 | 左对齐 | 右对齐 | 居中对齐 |
