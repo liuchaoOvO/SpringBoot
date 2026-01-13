@@ -19,7 +19,7 @@
         <jackson-dataformat-yaml.version>2.8.3</jackson-dataformat-yaml.version>
         <junit.version>4.12</junit.version>
         <apache-commons-pool2.version>2.4.2</apache-commons-pool2.version>
-        <apache-commons-lang3.version>3.4</apache-commons-lang3.version>
+        <apache-commons-lang3.version>3.18.0</apache-commons-lang3.version>
         <rest.protocol.version>1.1.0</rest.protocol.version>
         <feign-starter.version>3.0.0</feign-starter.version>
         <storage.starter.version>4.0.0</storage.starter.version>
